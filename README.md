@@ -1,0 +1,1 @@
+# lt-scenario-planning-calculator
